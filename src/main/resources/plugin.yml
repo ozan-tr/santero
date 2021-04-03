@@ -1,0 +1,20 @@
+name: santero
+main: com.ozan.plugin.santero.Main
+version: 1.1
+commands:
+   enchantif:
+      description: Latin Alfabesinden den Enchant Alfabesi Yapar
+   humanize:
+      description: Enchant Alfabesinden den Latin Alfabesine Döner
+   yargi:
+      description: Diktatörlerimizin gözünden öper
+   sertyargi:
+      description: Diktatörlerimizin gözünden öper
+   startpoll:
+      description: starts a new poll
+   vote:
+      description: vote
+   currentpoll:
+      description: displays votes   
+   endpoll:
+      description: deletes current poll   
